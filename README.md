@@ -1,6 +1,6 @@
-# duodian -work-css
+# duodian -weixin-UI
 
-> A Vue.js project
+> A Vue.js project adout '微信公众平台官网UI'
 
 ## Build Setup
 
